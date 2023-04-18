@@ -5,6 +5,8 @@ _______________________________________________________
 
 ### Respostas:
 
+- <b>1) Resposta:</b> <a href="https://github.com/devroberta/MostrarSoma">número apresentado = 91, link com a implementação: https://github.com/devroberta/MostrarSoma</a>
+
 - <b>2) Resposta:</b> <a href="https://github.com/devroberta/fibonacciAlgorithm">https://github.com/devroberta/fibonacciAlgorithm</a>
 
 - <b>3) Resposta:</b> <a href="https://github.com/devroberta/tratamentoDadosPandas">https://github.com/devroberta/tratamentoDadosPandas</a>
